@@ -1,0 +1,2 @@
+# firstkh
+vmware infra configuration
